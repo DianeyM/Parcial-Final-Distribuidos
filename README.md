@@ -1,5 +1,7 @@
 # Parcial-Final-Distribuidos
 
+EVIDENCIA
+Carpeta images
 
  CONCEPTOS TEÓRICOS
  
